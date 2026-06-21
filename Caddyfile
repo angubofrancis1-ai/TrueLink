@@ -1,0 +1,7 @@
+{
+    email your@email.com
+}
+
+localhost {
+    reverse_proxy backend:8080
+}
